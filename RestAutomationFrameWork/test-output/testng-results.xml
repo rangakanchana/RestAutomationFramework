@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestAutomation" duration-ms="1115" started-at="2016-10-01T15:27:32Z" finished-at="2016-10-01T15:27:33Z">
+    <groups>
+    </groups>
+    <test name="github" duration-ms="1115" started-at="2016-10-01T15:27:32Z" finished-at="2016-10-01T15:27:33Z">
+      <class name="com.test.TwitterTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.TwitterTest@21a06946]" name="beforeSuite" is-config="true" duration-ms="17" started-at="2016-10-01T08:27:32Z" finished-at="2016-10-01T08:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.TwitterTest@21a06946]" name="beforeClass" is-config="true" duration-ms="1079" started-at="2016-10-01T08:27:32Z" finished-at="2016-10-01T08:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testId()[pri:0, instance:com.test.TwitterTest@21a06946]" name="testId" duration-ms="8" started-at="2016-10-01T08:27:33Z" finished-at="2016-10-01T08:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testId -->
+        <test-method status="PASS" signature="testStatusCode()[pri:0, instance:com.test.TwitterTest@21a06946]" name="testStatusCode" duration-ms="2" started-at="2016-10-01T08:27:33Z" finished-at="2016-10-01T08:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusCode -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.test.TwitterTest@21a06946]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-10-01T08:27:33Z" finished-at="2016-10-01T08:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.test.TwitterTest -->
+    </test> <!-- github -->
+  </suite> <!-- RestAutomation -->
+</testng-results>
